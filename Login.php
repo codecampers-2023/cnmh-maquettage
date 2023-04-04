@@ -32,12 +32,12 @@
 <body class="hold-transition login-page">
   <div class="login-box">
     <div class="login-logo">
-      <a href="/assets/index2.html"><b>CNM</b>H</a>
+      <a href="/assets/index2.html"><b>CNMH</b></a>
     </div>
     <!-- /.login-logo -->
     <div class="card">
       <div class="card-body login-card-body">
-        <p class="login-box-msg">Sign in to start your session</p>
+        <p class="login-box-msg">Connectez-vous pour commencer votre session</p>
 
         <form method="post">
           <div class="input-group mb-3">
@@ -47,26 +47,45 @@
               <span class="fas fa-envelope"></span>
             </div>
           </div> -->
+
+          <div class="input-group mb-3">
+          <input type="text" class="form-control" placeholder="Nom">
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-user"></span>
+            </div>
+          </div>
+          </div>
+          <div class="input-group mb-3">
+          <input type="Mot de Passe" class="form-control" placeholder="Mot de Passe">
+          <div class="input-group-append">
+            <div class="input-group-text">
+              <span class="fas fa-lock"></span>
+            </div>
+          </div>
+        </div>
+        <div class="input-group mb-3">
             <select name="role" class="form-control select2 select2-danger select2-hidden-accessible" data-dropdown-css-class="select2-danger" style="width: 100%;" data-select2-id="12" tabindex="-1" aria-hidden="true">
-              <option selected="selected" data-select2-id="14">Role</option>
+              <option selected="selected" data-select2-id="14" >Role</option>
               <option data-select2-id="1">Admin</option>
               <option data-select2-id="2">Derictrice</option>
               <option data-select2-id="3">Service Social</option>
               <option data-select2-id="4">Infirmière médecin générale</option>
             </select>
+        </div>
           </div>
           <div class="row">
             <div class="col-8">
               <div class="icheck-primary">
                 <input type="checkbox" id="remember">
                 <label for="remember">
-                  Remember Me
+                  Rappelle-moi
                 </label>
               </div>
             </div>
             <!-- /.col -->
             <div class="col-4">
-              <button type="submit" class="btn btn-primary btn-block">Sign In</button>
+              <button type="submit" class="btn btn-primary btn-block">connectez-vous</button>
             </div>
             <!-- /.col -->
           </div>
