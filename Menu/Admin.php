@@ -1,7 +1,7 @@
 <?php if ($role == 'Admin') : ?>
   <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
     <li class="nav-item">
-      <a href="/Reclamation/ReclamationManager.php" class="nav-link">
+      <a href="/Statistiques/StatistiqueManager.php" class="nav-link">
         <i class="fa-solid fa-circle-exclamation"></i>
         <p class="pl-2">
           Statistique
