@@ -1,4 +1,4 @@
-<?php if ($role == 'Derictrice'): ?>
+<?php if ($role == 'Derictrice : Fatima zahrae serghini'): ?>
       <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
         <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->

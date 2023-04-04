@@ -1,4 +1,4 @@
-<?php if ($role == 'Service Social'): ?>
+<?php if ($role == 'Service social : Khawla souan'): ?>
       <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
 
       <li class="nav-item">

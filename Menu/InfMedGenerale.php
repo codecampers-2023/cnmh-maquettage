@@ -1,4 +1,4 @@
-<?php if ($role == 'Infirmière médecin générale'): ?>
+<?php if ($role == 'Infirmière médecin générale : Algamot asia '): ?>
       <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
 
       <li class="nav-item">
